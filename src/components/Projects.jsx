@@ -11,20 +11,20 @@ function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Yotube Clone",
+      description: <a href="https://roaring-zuccutto-520680.netlify.app/" target="_blank">"Project on Netlify"</a>,
       img: img4,
     },
     {
       id: 2,
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "E-commerce site",
+      description: <a href="https://chimerical-puppy-0e222e.netlify.app/" target="_blank">"Project on Netlify"</a>,
       img: img2,
     },
     {
       id: 3,
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "First site",
+      description: <a href="https://makar789654.github.io/makar7879654.ex1.github.io/" target="_blank">"Project on GitHub"</a>,
       img: img3,
     }
    
