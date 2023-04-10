@@ -15,7 +15,6 @@ function Skills() {
         <div className="skills-wrapper text-center text-white bg-[#171717]  p-10 rounded-[50px] lg:p-2">
           <h1 className="text-4xl ">Skills</h1>
           <p className="text-lg py-3">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
           </p>
           <div className="box flex  justify-between  items-center bg-[#171717] my-6">
             <Swiper

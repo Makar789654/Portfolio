@@ -12,12 +12,10 @@ function Header() {
     <Navbar/>
     <div className="wrapper flex justify-between items-center h-screen w-full px-20 lg:justify-center lg:px-6">
       <div className="content lg:text-center">
-        <div className="btn py-3">
-          <button  className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Welcome to my Portfolio</button>
-        </div>
         <h1 className='text-white text-5xl font-bold'>Hi! I'm Roman</h1>
-        <p className='text-white py-4 max-w-lg '>Lorem ipsum dolor sit amet consectetur  adipisicing elit. In qui impedit  sunt, est molestiae ullam. Saepe voluptatum ducimus adipisci pariatur. adipisicing elit.  In qui impedit ipsum dolor sit amet consectetur</p>
-        <button className='  text-white text-2xl'>Let's Connect <i className="fa-solid fa-arrow-right text-lg  p-[2px] "></i> </button>
+        <p className='text-white py-4 max-w-lg '>I'm  a front-end developer with a passion for creating beautiful and functional websites. My love for technology and design began at a young age, and I've been honing my skills ever since.
+          As a front-end developer, I'm dedicated to crafting elegant user interfaces that engage and delight users. I enjoy working with HTML, CSS, and JavaScript to bring designs to life and create seamless user experiences. I'm always on the lookout for new technologies and techniques to improve my skills and stay ahead of the curve.
+          </p>
       </div>
       <div className="image banner-astronout lg:hidden absolute w-[300px] flex ">
       <img className='w-96 ast-img' src={logo1} alt="" />
